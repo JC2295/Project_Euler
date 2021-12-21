@@ -1,6 +1,7 @@
+//Solution Completed
+
 function multiplesOf3and5(number) 
 {
-
     var sum = 0;
     
     for(var i = 0; i < number; i++)
@@ -16,5 +17,3 @@ function multiplesOf3and5(number)
     }
       return sum;
 }
-    
-console.log(multiplesOf3and5(49));
